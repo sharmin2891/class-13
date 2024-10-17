@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*Global css*/
+
+
+p{
+   /* font-family: "Open Sans", sans-serif;*/
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #a4a5a3;
+}
+h2{
+    font-family: "Raleway", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+  a, a:hover{
+    text-decoration: none;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+    background: black;
+    padding: 7px 0px 10px;
+
+}
+
+header .nav-link{
+    color: white;
+
+}
+
+
+header .active{
+    color: white !important;
+
+}
+
+ header .nav-item{
+    margin-left: 20px;
+}
+
+.banner-section{
+    width: 100%;
+    background: url(../img/banner.jpg) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cus-height{
+    height: 100vh;
+
+}
+.content h1{
+    font-size: 70px;
+    color: white;
+    font-weight: 700;
+
+}
+
+.content h1 span{    
+    color: #f28436;
+    font-weight: 400;    
+}
+
+.content h2{
+    color: white;
+    width: 74%;
+
+}
+
+
+.content h2{
+    
+}
+
+
+.content p{
+    width: 70%;
+    
+}
+
+.content .underline{
+    width: 84px;
+    height: 3px;
+    background: white;
+    margin: 30px 0px;
+
+}
+
+.content .btns{
+
+}
+
+
+
+.content .btns .btn-info{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 0;
+    padding: 8px 30px;
+    color: white;
+    margin-top: 40px;    
+    
+}
+
+.card{
+    width:  68% !important;
+    text-align: center;
+}
+
+.card .card-header{
+
+}
+
+
+.card .card-header h3{    
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+
+  .form-control{
+    border: none !important;
+    border-bottom: 1px solid #a4a5a3 !important;
+    border-radius: 0;
+
+
+}
+
+
+.card .card-header h3 span{
+    text-transform: uppercase;
+    color: #f28436;
+    
+}
+
+.card-footer{
+    background-color: #f28436;  
+    
+}
+
+.banner-right .card-footer input{
+    border: 0;
+    width: 100%;
+    padding: 13px 0px;
+    background: #f28436;
+}
+
+.social-section{
+    width: 100%0;
+    padding: 15px 0px 10px;
+    border-bottom: 1px solid #b7b7b7;
+}
+
+.social-section .social-left p{
+    color: #cccccc;
+    width: 90%;
+
+}
+
+.iconsl{
+    text-align: right;
+
+}
+
+.iconsl ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 25px 0px 25px 70px;
+}
+.iconsl ul li a i{
+    color: #cccccc;
+    font-size: 30px;
+}
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+    
